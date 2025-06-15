@@ -85,14 +85,14 @@ Message encoded successfully!
 > After extracting the hidden message from `output.png`
 ```
 Decoded message: you are beautiful
-```
-![Decoding](screenshots/decode_success.png)
+```![Screenshot 2025-06-13 205611](https://github.com/user-attachments/assets/2f905501-1f57-4829-9421-9b23f09ed6ad)
+
 
 ---
 
 ### 📁 Folder View
 > Final output image (`output.png`), input image (`input.png`), and code file (`steganography.py`) in the project folder.
-![Folder View](screenshots/folder_view.png)
+![Screenshot 2025-06-13 205430](https://github.com/user-attachments/assets/23674dcd-bff1-4878-bad7-0357473a46b7)
 
 ---
 
