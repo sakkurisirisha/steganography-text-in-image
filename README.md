@@ -93,9 +93,8 @@ Decoded message: you are beautiful
 
 ### 📁 Folder View
 > Final output image (`output.png`), input image (`input.png`), and code file (`steganography.py`) in the project folder.
-```
-![Screenshot 2025-06-13 205430](https://github.com/user-attachments/assets/b671e29f-4f4e-4649-b190-b324f6dac1e3)
-
+>```
+![Screenshot 2025-06-13 205430](https://github.com/user-attachments/assets/d8802b30-9952-449a-8572-1e0df5b3be5c)
 
 # Future Improvements
 
