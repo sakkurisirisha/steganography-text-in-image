@@ -85,7 +85,7 @@ Message encoded successfully!
 > After extracting the hidden message from `output.png`
 ```
 Decoded message: you are beautiful
-```![Screenshot 2025-06-13 205611](https://github.com/user-attachments/assets/2f905501-1f57-4829-9421-9b23f09ed6ad)
+![Screenshot 2025-06-13 205611](https://github.com/user-attachments/assets/7cbd7645-f969-4ba7-9e3b-2e23cfaf53c5)
 
 
 ---
