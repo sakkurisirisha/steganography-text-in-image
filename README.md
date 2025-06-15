@@ -76,7 +76,8 @@ This is a Python-based project that uses **LSB (Least Significant Bit) steganogr
 C:\Users\HP\OneDrive\Desktop\st_python>python steganography.py  
 Message encoded successfully!
 ```
-![Encoding](screenshots/encode_success.png)
+![Screenshot 2025-06-13 205551](https://github.com/user-attachments/assets/e421894c-cc87-4091-be3c-139f74e0d9f1)
+
 
 ---
 
